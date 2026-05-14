@@ -1,0 +1,20 @@
+{
+  "name": "You Goo!",
+  "short_name": "You Goo!",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#170e24",
+  "theme_color": "#170e24",
+  "icons": [
+    {
+      "src": "icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
